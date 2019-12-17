@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Cursos\\REST API RESTFul\\ProjetoAulas\\RestWithASP.NET\\RestWithASP-NETCore\\RestWithASP-NETCore\\RestWithASP-NETCore.csproj",
+      "projectUniqueName": "D:\\Desktop\\Cursos\\REST API RESTFul\\ProjetoAulas\\RestWithASP.NET\\RestWithASP-NETCore 01 -Calculator\\RestWithASP-NETCore\\RestWithASP-NETCore.csproj",
       "projectName": "RestWithASP-NETCore",
-      "projectPath": "D:\\Desktop\\Cursos\\REST API RESTFul\\ProjetoAulas\\RestWithASP.NET\\RestWithASP-NETCore\\RestWithASP-NETCore\\RestWithASP-NETCore.csproj",
+      "projectPath": "D:\\Desktop\\Cursos\\REST API RESTFul\\ProjetoAulas\\RestWithASP.NET\\RestWithASP-NETCore 01 -Calculator\\RestWithASP-NETCore\\RestWithASP-NETCore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Cursos\\REST API RESTFul\\ProjetoAulas\\RestWithASP.NET\\RestWithASP-NETCore\\RestWithASP-NETCore\\obj\\",
+      "outputPath": "D:\\Desktop\\Cursos\\REST API RESTFul\\ProjetoAulas\\RestWithASP.NET\\RestWithASP-NETCore 01 -Calculator\\RestWithASP-NETCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
