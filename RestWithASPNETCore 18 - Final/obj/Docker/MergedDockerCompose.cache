@@ -1,0 +1,40 @@
+networks:
+  udemy-network:
+    driver: bridge
+services:
+  db:
+    build:
+      context: D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore
+        17 - Enable Docker
+      dockerfile: Dockerfile
+    command: mysqld --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_DATABASE: rest_with_asp_net_udemy
+      MYSQL_PASSWORD: docker
+      MYSQL_ROOT_PASSWORD: docker
+      MYSQL_USER: docker
+    image: udemy-mysql
+    networks:
+      udemy-network: null
+    ports:
+    - published: 3308
+      target: 3306
+    restart: always
+  restwithaspnetudemy:
+    build:
+      context: D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore
+        17 - Enable Docker
+      dockerfile: Dockerfile
+    depends_on:
+    - db
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+    image: restwithaspnetudemy-api
+    links:
+    - db
+    networks:
+      udemy-network: null
+    ports:
+    - published: 5000
+      target: 80
+version: '3.4'
