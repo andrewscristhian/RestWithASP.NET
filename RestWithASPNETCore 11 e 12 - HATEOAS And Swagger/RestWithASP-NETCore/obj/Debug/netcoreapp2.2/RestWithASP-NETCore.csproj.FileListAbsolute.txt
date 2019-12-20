@@ -1,0 +1,110 @@
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.RazorAssemblyInfo.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.RazorAssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.RazorTargetAssemblyInfo.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.RazorAssemblyInfo.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.RazorAssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 01 -Calculator\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.RazorTargetAssemblyInfo.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 05 - Spliting Logic\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 07 - Working With Generic Repository\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASP-NETCore 08 - Working With Value Objects\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETUdemy 09 - Data Contract\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 10 - Content Negotiation\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.deps.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.runtimeconfig.dev.json
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\bin\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.csprojAssemblyReference.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfoInputs.cache
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.AssemblyInfo.cs
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.dll
+D:\Desktop\Cursos\REST API RESTFul\ProjetoAulas\RestWithASP.NET\RestWithASPNETCore 11 - HATEOAS\RestWithASP-NETCore\obj\Debug\netcoreapp2.2\RestWithASP-NETCore.pdb
